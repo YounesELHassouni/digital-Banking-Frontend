@@ -1,27 +1,33 @@
 # DigitalBankingWeb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## All Customers
+![Capture5](https://github.com/YounesELHassouni/digital-Banking-Frontend/assets/117670114/d3c275b7-1e04-46a4-8ec0-470827e01775)
 
-## Code scaffolding
+## Form Validation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Capture6](https://github.com/YounesELHassouni/digital-Banking-Frontend/assets/117670114/e9335537-1517-4e4c-8c23-e95e21133eb5)
 
-## Build
+## Add New Customer
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Capture7](https://github.com/YounesELHassouni/digital-Banking-Frontend/assets/117670114/a8e58791-9a24-463b-a94c-b47dc5b6d129)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## The Customer Added 
 
-## Running end-to-end tests
+![Capture8](https://github.com/YounesELHassouni/digital-Banking-Frontend/assets/117670114/b23d57cb-4b0e-4f5b-92e0-a14a191c82f7)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Removing Customer
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Capture9](https://github.com/YounesELHassouni/digital-Banking-Frontend/assets/117670114/98276541-eb9e-4bbd-9b8d-ef9aaffda81b)
+
+## The Customer was deleted
+![Capture10](https://github.com/YounesELHassouni/digital-Banking-Frontend/assets/117670114/83e55ba3-75af-415e-aff9-6bf9a93ea695)
+
+## The Login Page
+
+![Capture11](https://github.com/YounesELHassouni/digital-Banking-Frontend/assets/117670114/26b0b087-b26f-4166-b2ff-2a358230b476)
+
+
